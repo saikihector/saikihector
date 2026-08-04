@@ -25,6 +25,7 @@ Email: saikihector@gmail.com
 
 ---
 
-[![TypingSVG](https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=28%center=true&vCenter=true&width=600&lines=
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=28%center=true&vCenter=true&width=600&lines=
 Frontend+Developer;UI+com+propósito;Founder+HKSYS;Código+limpo+e+funcional)]
 (https://git.io/typing-svg)
