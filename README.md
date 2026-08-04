@@ -24,6 +24,3 @@ Linkedin: https://www.linkedin.com/in/hector-saiki-8a788626a
 Email: saikihector@gmail.com
 
 ---
-
-## 🌐 Portifólio
-![Meu Portifólio](https://hksys.netlify.app/)
