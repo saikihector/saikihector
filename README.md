@@ -1,8 +1,5 @@
 # Olá, eu sou Hector 👋
 
-<!--
-**saikihector/saikihector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sou desenvolvedor Frontend
 Fundador da @hksys.dev
 
@@ -31,5 +28,3 @@ Email: saikihector@gmail.com
 ## 📊 Stats
 ![GitHub
 stats](https://github-readme-stats.vercel.app/api?username=saikihector)
-
--->
