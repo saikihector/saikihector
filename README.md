@@ -29,3 +29,5 @@ Email: saikihector@gmail.com
 
 ---
 
+![GitHub
+Streak](https://streak-stats.demolab.com?user=saikihector&theme=tokyonight)
