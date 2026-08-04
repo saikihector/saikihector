@@ -26,4 +26,4 @@ Email: saikihector@gmail.com
 ---
 
 ## 📊 Stats
-![GitHubstats](https://github-readme-stats.vercel.app/api?username=saikihector)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikihector)
