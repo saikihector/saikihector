@@ -35,7 +35,7 @@ Email: saikihector@gmail.com
 ---
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF:0:0D1117,100&height=200&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF:0D1117,100&height=200&section=footer">
 <!--
 
 
