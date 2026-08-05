@@ -34,21 +34,5 @@ Email: saikihector@gmail.com
 
 ---
 
-## 📊 GitHub
-<p align="center">
-  ![GitHub
-  Streak](https://streak-stats.demolab.com?user=saikihector&theme=tokyonight)
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF:0D1117,100&height=200&section=footer">
-<!--
-
-
-![Snake
-animation](https://github.com/saikihector/saikihector/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
--->
