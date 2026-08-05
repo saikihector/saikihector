@@ -4,8 +4,7 @@ Sou desenvolvedor Frontend
 Fundador da @hksys.dev
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=2&center=true&vCenter=true&width=600&lines=
-Frontend)]
+SVG](https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=2&center=true&vCenter=true&width=600&lines=Frontend)]
 (https://git.io/typing-svg)
 
 ---
