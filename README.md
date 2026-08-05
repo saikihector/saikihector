@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?background=0D1117&color=7F3FBF&width=1000&lines=Olá, eu sou Hector Saiki
-  Sou dev">
+<img src="https://readme-typing-svg.herokuapp.com/?background=0D1117&color=7F3FBF&width=1000&lines=Olá, eu sou Hector Saiki Sou dev">
 
 # Olá, eu sou Hector Saiki 👋
 
