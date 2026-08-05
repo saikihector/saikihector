@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?background=0D1117&color=7F3FBF&width=1000&lines=Olá,+eu+sou+Hector+Saiki.">
 
+<img src="https://readme-typing-svg.herokuapp.com/?background=0D1117&color=7F3FBF&width=1000&lines=Sou+desenvolvedor+Frontend+e+fundador+da+HKSYS.">
+
 # Olá, eu sou Hector Saiki 👋
 
 Sou desenvolvedor Frontend
