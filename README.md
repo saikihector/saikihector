@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7F3FBF&height=200&section=header">
+<img src="https://readme-typing-svg.herokuapp.com/?background=0D1117&color=7F3FBF&lines=Hector">
 
 # Olá, eu sou Hector Saiki 👋
 
