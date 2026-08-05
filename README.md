@@ -28,6 +28,7 @@ Linkedin: https://www.linkedin.com/in/hector-saiki-8a788626a
 Email: saikihector@gmail.com
 
 ---
-
+<!---
 ![GitHub
 Streak](https://streak-stats.demolab.com?user=saikihector&theme=tokyonight)
+-->
