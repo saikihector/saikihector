@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7F3FBF&height=200&section=header">
-
+<!--
 # Olá, eu sou Hector Saiki 👋
 
 Sou desenvolvedor Frontend
@@ -47,4 +47,5 @@ animation](https://github.com/saikihector/saikihector/blob/output/github-contrib
 
 ![GitHub
 Streak](https://streak-stats.demolab.com?user=saikihector&theme=tokyonight)
+-->
 -->
