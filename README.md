@@ -36,7 +36,7 @@ Email: saikihector@gmail.com
 
 ## 📊 GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikihector&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=saikihector&show_icons=true&theme=tokyonight">
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikihector&layout=copmpact&theme=tokyonight">
 </p>
