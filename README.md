@@ -29,7 +29,7 @@ Atelier PianoVox · Carbonari · HKSYS
 
 ## 📫 Contato
 
-Linkedin: https://www.linkedin.com/in/hector-saiki-8a788626a
+Linkedin: https://www.linkedin.com/in/hector-saiki-8a788626a <br>
 Email: saikihector@gmail.com
 
 ---
