@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?background=0D1117&color=7F3FBF&width=900&lines=Hector">
+<img src="https://readme-typing-svg.herokuapp.com/?background=0D1117&color=7F3FBF&width=1000&lines=Hector">
 
 # Olá, eu sou Hector Saiki 👋
 
