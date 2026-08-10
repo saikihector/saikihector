@@ -23,7 +23,7 @@ HTML · CSS · JavaScript · Python
 ## 🚀 Projetos
 
 Sites: <br>
-[![Atelier PianoVox][([https://atelierpianovox.com](https://atelierpianovox.com/))](https://atelierpianovox.com/)](https://atelierpianovox.com/)
+(https://atelierpianovox.com)
 Atelier PianoVox · Carbonari · HKSYS
 
 ---
