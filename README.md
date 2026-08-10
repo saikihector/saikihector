@@ -22,7 +22,7 @@ HTML · CSS · JavaScript · Python
 
 ## 🚀 Projetos
 
-Sites: <br>
+Sites no ar: <br>
 <a href="https://atelierpianovox.com">Atelier PianoVox</a>
 
 Projetos Site no GitHub: <br>
