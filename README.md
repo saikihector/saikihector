@@ -24,7 +24,10 @@ HTML · CSS · JavaScript · Python
 
 Sites: <br>
 <a href="https://atelierpianovox.com">Atelier PianoVox</a>
-Atelier PianoVox · Carbonari · HKSYS
+
+Projetos Site no GitHub: <br>
+
+Carbonari · HKSYS
 
 ---
 
