@@ -22,10 +22,10 @@ HTML · CSS · JavaScript · Python
 
 ## 🚀 Projetos
 
-Sites no ar: <br>
+Sites no ar: <br><br>
 <a href="https://atelierpianovox.com">Atelier PianoVox</a>
 
-Projetos Site no GitHub: <br><br>
+Projetos Site no GitHub: <br>
 
 Carbonari · HKSYS
 
