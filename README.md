@@ -10,7 +10,7 @@ Fundador da @hksys.dev
 
 ## ⚡ Tech Stack
 
-HTML · CSS · JavaScript · Python · VsCode
+HTML · CSS · JavaScript · Python
 
 
 <!--
