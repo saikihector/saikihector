@@ -22,16 +22,9 @@ HTML · CSS · JavaScript · Python
 
 ## 🚀 Projetos
 
-Sites Online: <br><br>
-
 <a href="https://atelierpianovox.com">Atelier PianoVox</a>            <p>
-<a href="carbonari-lake.vercel.app">Carbonari</a>                      
-
-<br>
-
-Projetos Site no GitHub: <br>
-
-Carbonari · HKSYS
+<a href="carbonari-lake.vercel.app">Carbonari</a>                    <p>                      
+<a href="https://hksys.netlify.app/">HKSYS</a>
 
 ---
 
