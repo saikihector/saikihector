@@ -20,7 +20,7 @@ HTML · CSS · JavaScript · Python
 -->
 ---
 
-## 🚀 Projetos
+## 🖥💻 Projetos
 
 <a href="https://atelierpianovox.com">Atelier PianoVox</a>            <p>
 <a href="carbonari-lake.vercel.app">Carbonari</a>                    <p>
