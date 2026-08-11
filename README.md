@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7F3FBF&height=200&section=header">
 
-# Olá, eu sou Hector Saiki 👋
+# Olá, eu sou Hector Saiki 
 
 Sou desenvolvedor Frontend <br><br>
 Fundador da @hksys.dev
@@ -20,7 +20,7 @@ HTML · CSS · JavaScript · Python
 -->
 ---
 
-## 🖥💻 Projetos
+## 🖥 Projetos
 
 <a href="https://atelierpianovox.com">Atelier PianoVox</a>            <p>
 <a href="carbonari-lake.vercel.app">Carbonari</a>                    <p>
