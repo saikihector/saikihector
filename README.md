@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7F3FBF&height=200&section=header&text=Olá,%20eu%20sou%20Hector%20Saiki">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7F3FBF&height=200&section=header&text=Olá,%20eu%20sou%20Hector%20Saiki&fontColor=fff">
 
 # Olá, eu sou Hector Saiki 
 
